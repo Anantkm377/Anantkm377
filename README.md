@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anantkm377
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Adobe campaign classic 
+- 🌱 I’m currently working Adobe campaign classic 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mkd30499@gmail.com
 - 😄 Pronouns: ...
